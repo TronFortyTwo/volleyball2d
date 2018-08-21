@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>components/AIDebug.qml</file>
+        <file>components/AIPrediction.qml</file>
+        <file>components/Ball.qml</file>
+        <file>components/Boundaries.qml</file>
+        <file>components/Character.qml</file>
+        <file>components/CharacterBarrier.qml</file>
+        <file>components/Computer.qml</file>
+        <file>components/GameHeader.qml</file>
+        <file>components/Human.qml</file>
+        <file>components/LiveScore.qml</file>
+        <file>components/Net.qml</file>
+        <file>components/PauseOverlay.qml</file>
+        <file>components/PointOverlay.qml</file>
+        <file>components/ScaleItem.qml</file>
+        <file>components/ScalePage.qml</file>
+        <file>components/Scoring.qml</file>
+        <file>components/SemiCircleEntity.qml</file>
+        <file>components/Wall.qml</file>
+        <file>pages/FinishPage.qml</file>
+        <file>pages/GamePage.qml</file>
+        <file>pages/HighScorePage.qml</file>
+        <file>pages/MenuPage.qml</file>
+        <file>pages/RotateScreenPage.qml</file>
+        <file>pages/SettingsPage.qml</file>
+        <file>scenes/GameScene.qml</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>

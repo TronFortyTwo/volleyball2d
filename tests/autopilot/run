@@ -1,0 +1,17 @@
+#!/bin/bash
+
+if [[ -z `which autopilot3` ]]; then
+  echo "Autopilot3 is not installed. Skip"
+  exit
+fi
+
+pushd ../../
+qmake
+make
+popd
+
+SCRIPTPATH=`dirname $0`
+pushd ${SCRIPTPATH}
+autopilot3 run volleyball2d
+popd
+

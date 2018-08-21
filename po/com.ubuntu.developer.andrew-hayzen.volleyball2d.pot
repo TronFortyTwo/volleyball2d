@@ -1,0 +1,183 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: volleyball2d\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-02 17:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: pages/HighScorePage.qml:23
+msgid "High Scores"
+msgstr ""
+
+#: pages/HighScorePage.qml:40 scenes/MenuScene.qml:77
+msgid "First to"
+msgstr ""
+
+#: pages/HighScorePage.qml:45 pages/HighScorePage.qml:54
+#: pages/HighScorePage.qml:63
+msgid "N/A"
+msgstr ""
+
+#: pages/HighScorePage.qml:45
+msgid "seconds"
+msgstr ""
+
+#: pages/HighScorePage.qml:49 scenes/MenuScene.qml:78
+msgid "Highest Score"
+msgstr ""
+
+#: pages/HighScorePage.qml:54 pages/HighScorePage.qml:63
+msgid "points"
+msgstr ""
+
+#: pages/HighScorePage.qml:58 scenes/MenuScene.qml:79
+msgid "Survival"
+msgstr ""
+
+#: pages/HighScorePage.qml:71 pages/SettingsPage.qml:115
+msgid "Reset"
+msgstr ""
+
+#: pages/SettingsPage.qml:23
+msgid "Settings"
+msgstr ""
+
+#: pages/SettingsPage.qml:41
+msgid "Controls"
+msgstr ""
+
+#: pages/SettingsPage.qml:50
+msgid "Use motion"
+msgstr ""
+
+#: pages/SettingsPage.qml:65
+msgid "Motion deadzone"
+msgstr ""
+
+#: pages/SettingsPage.qml:81
+msgid "Motion sensitivity"
+msgstr ""
+
+#: pages/SettingsPage.qml:85
+msgid "Game"
+msgstr ""
+
+#: pages/SettingsPage.qml:94
+msgid "Fullscreen"
+msgstr ""
+
+#: pages/SettingsPage.qml:98
+msgid "Debug"
+msgstr ""
+
+#: pages/SettingsPage.qml:102
+msgid "AI Debug Layer"
+msgstr ""
+
+#: pages/RotateScreenPage.qml:37
+msgid "Please rotate your device"
+msgstr ""
+
+#: scenes/FinishScene.qml:64
+msgid "New fastest time"
+msgstr ""
+
+#: scenes/FinishScene.qml:64
+msgid "New highest score"
+msgstr ""
+
+#: scenes/FinishScene.qml:73
+msgid "Final Score"
+msgstr ""
+
+#: scenes/FinishScene.qml:81
+msgid "You"
+msgstr ""
+
+#: scenes/FinishScene.qml:82
+msgid "Computer"
+msgstr ""
+
+#: scenes/FinishScene.qml:82
+msgid "Time"
+msgstr ""
+
+#: scenes/FinishScene.qml:89
+msgid "Tap to return to the menu"
+msgstr ""
+
+#: scenes/MenuScene.qml:54
+msgid "Beta"
+msgstr ""
+
+#: scenes/MenuScene.qml:65
+msgid "Volleyball 2D"
+msgstr ""
+
+#: scenes/MenuScene.qml:85
+msgid "Within a certain amount of time"
+msgstr ""
+
+#: scenes/MenuScene.qml:86
+msgid "Highest score without losing a point"
+msgstr ""
+
+#: scenes/MenuScene.qml:165
+msgid "Rotate your device to move your player"
+msgstr ""
+
+#: scenes/MenuScene.qml:166
+msgid "Tap to jump"
+msgstr ""
+
+#: scenes/MenuScene.qml:168
+msgid "Press on the left or right of the screen to move"
+msgstr ""
+
+#: scenes/MenuScene.qml:169
+msgid "Tap in the center or a two finger press to jump"
+msgstr ""
+
+#: scenes/MenuScene.qml:177
+msgid "Play"
+msgstr ""
+
+#: components/PauseOverlay.qml:54
+msgid "Paused"
+msgstr ""
+
+#: components/PauseOverlay.qml:62
+msgid "Continue"
+msgstr ""
+
+#: components/PauseOverlay.qml:71
+msgid "Return to menu"
+msgstr ""
+
+#: components/PointOverlay.qml:42
+msgid "You won this round"
+msgstr ""
+
+#: components/PointOverlay.qml:42
+msgid "You lost this round"
+msgstr ""
+
+#: components/PointOverlay.qml:51
+msgid "Tap to continue"
+msgstr ""
+
+#: components/GameHeader.qml:119
+msgid "Pause"
+msgstr ""

@@ -1,0 +1,15 @@
+{
+    "architecture": "@CLICK_ARCH@",
+    "description": "A basic 2d volleyball game using semi-circular characters, inspired by 'Slime Volleyball'",
+    "framework": "ubuntu-sdk-15.04.5-qml",
+    "hooks": {
+        "volleyball2d": {
+            "apparmor": "volleyball2d/volleyball2d.apparmor",
+            "desktop": "volleyball2d/volleyball2d.desktop"
+        }
+    },
+    "maintainer": "Andrew Hayzen <ahayzen@gmail.com>",
+    "name": "com.ubuntu.developer.andrew-hayzen.volleyball2d",
+    "title": "Volleyball 2D",
+    "version": "0.4"
+}

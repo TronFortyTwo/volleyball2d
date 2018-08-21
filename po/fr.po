@@ -1,0 +1,196 @@
+# French translation for volleyball2d
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the volleyball2d package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: volleyball2d\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-08-18 23:09+0100\n"
+"PO-Revision-Date: 2016-09-24 14:23+0000\n"
+"Last-Translator: Anne017 <anneonyme017@openmailbox.org>\n"
+"Language-Team: French <fr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2016-12-19 05:45+0000\n"
+"X-Generator: Launchpad (build 18298)\n"
+
+#: volleyball2d/components/PauseOverlay.qml:59
+msgid "Paused"
+msgstr "En pause"
+
+#: volleyball2d/components/PauseOverlay.qml:67
+msgid "Continue"
+msgstr "Continuer"
+
+#: volleyball2d/components/PauseOverlay.qml:76
+msgid "Return to menu"
+msgstr "Retourner au menu"
+
+#: volleyball2d/components/PointOverlay.qml:48
+msgid "You won this round"
+msgstr "Vous avez gagné cette manche"
+
+#: volleyball2d/components/PointOverlay.qml:48
+msgid "You lost this round"
+msgstr "Vous avez perdu cette manche"
+
+#: volleyball2d/components/PointOverlay.qml:58
+msgid "Tap to continue"
+msgstr "Appuyez pour continuer"
+
+#: volleyball2d/components/GameHeader.qml:119
+msgid "Pause"
+msgstr "Pause"
+
+#: volleyball2d/pages/RotateScreenPage.qml:41
+msgid "Please rotate your device"
+msgstr "Veuillez tourner votre appareil"
+
+#: volleyball2d/pages/MenuPage.qml:56
+msgid "Beta"
+msgstr "Béta"
+
+#: volleyball2d/pages/MenuPage.qml:67
+msgid "Volleyball 2D"
+msgstr "Volleyball 2D"
+
+#: volleyball2d/pages/MenuPage.qml:79 volleyball2d/pages/HighScorePage.qml:64
+msgid "First to"
+msgstr "Premier à"
+
+#: volleyball2d/pages/MenuPage.qml:80 volleyball2d/pages/HighScorePage.qml:76
+msgid "Highest Score"
+msgstr "Score le plus élevé"
+
+#: volleyball2d/pages/MenuPage.qml:81 volleyball2d/pages/HighScorePage.qml:88
+msgid "Survival"
+msgstr "Survie"
+
+#: volleyball2d/pages/MenuPage.qml:87
+msgid "Within a certain amount of time"
+msgstr "Dans un certain laps de temps"
+
+#: volleyball2d/pages/MenuPage.qml:88
+msgid "Highest score without losing a point"
+msgstr "Score le plus élevé sans perdre de points"
+
+#: volleyball2d/pages/MenuPage.qml:167
+msgid "Rotate your device to move your player"
+msgstr "Tournez votre appareil pour déplacer votre joueur"
+
+#: volleyball2d/pages/MenuPage.qml:168
+msgid "Tap to jump"
+msgstr "Appuyez pour sauter"
+
+#: volleyball2d/pages/MenuPage.qml:170
+msgid "Press on the left or right of the screen to move"
+msgstr "Appuyez sur la gauche ou la droite de l'écran pour vous déplacer"
+
+#: volleyball2d/pages/MenuPage.qml:171
+msgid "Tap in the center or a two finger press to jump"
+msgstr "Appuyez au centre ou avec deux doigts pour sauter"
+
+#: volleyball2d/pages/MenuPage.qml:179
+msgid "Play"
+msgstr "Jouer"
+
+#: volleyball2d/pages/SettingsPage.qml:24
+msgid "Settings"
+msgstr "Paramètres"
+
+#: volleyball2d/pages/SettingsPage.qml:59
+msgid "Controls"
+msgstr "Commandes"
+
+#: volleyball2d/pages/SettingsPage.qml:70
+msgid "Use motion"
+msgstr "Utilisation du déplacement"
+
+#: volleyball2d/pages/SettingsPage.qml:91
+msgid "Motion deadzone"
+msgstr "Zone morte du déplacement"
+
+#: volleyball2d/pages/SettingsPage.qml:121
+msgid "Motion sensitivity"
+msgstr "Sensibilité du déplacement"
+
+#: volleyball2d/pages/SettingsPage.qml:152
+msgid "Game"
+msgstr "Partie"
+
+#: volleyball2d/pages/SettingsPage.qml:163
+msgid "Fullscreen"
+msgstr "Plein écran"
+
+#: volleyball2d/pages/SettingsPage.qml:186
+msgid "Debug"
+msgstr "Débogage"
+
+#: volleyball2d/pages/SettingsPage.qml:197
+msgid "AI Debug Layer"
+msgstr "Couche de débogage de l'IA"
+
+#: volleyball2d/pages/SettingsPage.qml:221
+#: volleyball2d/pages/HighScorePage.qml:104
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: volleyball2d/pages/HighScorePage.qml:27
+msgid "Back"
+msgstr "Précédent"
+
+#: volleyball2d/pages/HighScorePage.qml:33
+msgid "High Scores"
+msgstr "Meilleurs scores"
+
+#: volleyball2d/pages/HighScorePage.qml:61
+#: volleyball2d/pages/HighScorePage.qml:73
+#: volleyball2d/pages/HighScorePage.qml:85
+msgid "N/A"
+msgstr "N/A"
+
+#: volleyball2d/pages/HighScorePage.qml:61
+msgid "seconds"
+msgstr "secondes"
+
+#: volleyball2d/pages/HighScorePage.qml:73
+#: volleyball2d/pages/HighScorePage.qml:85
+msgid "points"
+msgstr "points"
+
+#: volleyball2d/pages/FinishPage.qml:64
+msgid "New fastest time"
+msgstr "Nouveau temps le plus rapide"
+
+#: volleyball2d/pages/FinishPage.qml:64
+msgid "New highest score"
+msgstr "Nouveau score le plus élevé"
+
+#: volleyball2d/pages/FinishPage.qml:73
+msgid "Final Score"
+msgstr "Score final"
+
+#: volleyball2d/pages/FinishPage.qml:81
+msgid "You"
+msgstr "Vous"
+
+#: volleyball2d/pages/FinishPage.qml:82
+msgid "Computer"
+msgstr "Ordinateur"
+
+#: volleyball2d/pages/FinishPage.qml:82
+msgid "Time"
+msgstr "Temps"
+
+#: volleyball2d/pages/FinishPage.qml:89
+msgid "Tap to return to the menu"
+msgstr "Appuyez pour retourner au menu"
+
+#~ msgid "Tap to play"
+#~ msgstr "Appuyer pour jouer"
+
+#~ msgid "Fastest time"
+#~ msgstr "Meilleur temps"

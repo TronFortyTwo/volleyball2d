@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Volleyball 2D
+Exec=volleyball2d
+Icon=volleyball2d/volleyball2d.svg
+StartupNotify=true
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Supported-Orientations=landscape
+X-Ubuntu-Single-Instance=true
+X-Ubuntu-Splash-Show-Header=true
+X-Ubuntu-Splash-Title=Volleyball 2D
+X-Ubuntu-Splash-Color=#bebcbe
+X-Ubuntu-Default-Department-ID=games

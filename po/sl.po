@@ -1,0 +1,190 @@
+# Slovenian translation for volleyball2d
+# Copyright (c) 2018 Rosetta Contributors and Canonical Ltd 2018
+# This file is distributed under the same license as the volleyball2d package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: volleyball2d\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-08-18 23:09+0100\n"
+"PO-Revision-Date: 2018-02-16 13:14+0000\n"
+"Last-Translator: Matic Gradišer <Unknown>\n"
+"Language-Team: Slovenian <sl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2018-02-17 05:56+0000\n"
+"X-Generator: Launchpad (build 18553)\n"
+
+#: volleyball2d/components/PauseOverlay.qml:59
+msgid "Paused"
+msgstr "Začasno ustavljeno"
+
+#: volleyball2d/components/PauseOverlay.qml:67
+msgid "Continue"
+msgstr "Nadaljuj"
+
+#: volleyball2d/components/PauseOverlay.qml:76
+msgid "Return to menu"
+msgstr "Nazaj v menu"
+
+#: volleyball2d/components/PointOverlay.qml:48
+msgid "You won this round"
+msgstr ""
+
+#: volleyball2d/components/PointOverlay.qml:48
+msgid "You lost this round"
+msgstr ""
+
+#: volleyball2d/components/PointOverlay.qml:58
+msgid "Tap to continue"
+msgstr ""
+
+#: volleyball2d/components/GameHeader.qml:119
+msgid "Pause"
+msgstr "Premor"
+
+#: volleyball2d/pages/RotateScreenPage.qml:41
+msgid "Please rotate your device"
+msgstr ""
+
+#: volleyball2d/pages/MenuPage.qml:56
+msgid "Beta"
+msgstr "Beta"
+
+#: volleyball2d/pages/MenuPage.qml:67
+msgid "Volleyball 2D"
+msgstr "Volleyball 2D"
+
+#: volleyball2d/pages/MenuPage.qml:79 volleyball2d/pages/HighScorePage.qml:64
+msgid "First to"
+msgstr ""
+
+#: volleyball2d/pages/MenuPage.qml:80 volleyball2d/pages/HighScorePage.qml:76
+msgid "Highest Score"
+msgstr "Najvišji rezultat"
+
+#: volleyball2d/pages/MenuPage.qml:81 volleyball2d/pages/HighScorePage.qml:88
+msgid "Survival"
+msgstr "Preživetje"
+
+#: volleyball2d/pages/MenuPage.qml:87
+msgid "Within a certain amount of time"
+msgstr ""
+
+#: volleyball2d/pages/MenuPage.qml:88
+msgid "Highest score without losing a point"
+msgstr ""
+
+#: volleyball2d/pages/MenuPage.qml:167
+msgid "Rotate your device to move your player"
+msgstr ""
+
+#: volleyball2d/pages/MenuPage.qml:168
+msgid "Tap to jump"
+msgstr ""
+
+#: volleyball2d/pages/MenuPage.qml:170
+msgid "Press on the left or right of the screen to move"
+msgstr ""
+
+#: volleyball2d/pages/MenuPage.qml:171
+msgid "Tap in the center or a two finger press to jump"
+msgstr ""
+
+#: volleyball2d/pages/MenuPage.qml:179
+msgid "Play"
+msgstr "Igraj"
+
+#: volleyball2d/pages/SettingsPage.qml:24
+msgid "Settings"
+msgstr "Nastavitve"
+
+#: volleyball2d/pages/SettingsPage.qml:59
+msgid "Controls"
+msgstr "Kontrole"
+
+#: volleyball2d/pages/SettingsPage.qml:70
+msgid "Use motion"
+msgstr ""
+
+#: volleyball2d/pages/SettingsPage.qml:91
+msgid "Motion deadzone"
+msgstr ""
+
+#: volleyball2d/pages/SettingsPage.qml:121
+msgid "Motion sensitivity"
+msgstr ""
+
+#: volleyball2d/pages/SettingsPage.qml:152
+msgid "Game"
+msgstr "Igra"
+
+#: volleyball2d/pages/SettingsPage.qml:163
+msgid "Fullscreen"
+msgstr "Celozaslonsko"
+
+#: volleyball2d/pages/SettingsPage.qml:186
+msgid "Debug"
+msgstr "Razhroščevanje"
+
+#: volleyball2d/pages/SettingsPage.qml:197
+msgid "AI Debug Layer"
+msgstr ""
+
+#: volleyball2d/pages/SettingsPage.qml:221
+#: volleyball2d/pages/HighScorePage.qml:104
+msgid "Reset"
+msgstr "Ponastavi"
+
+#: volleyball2d/pages/HighScorePage.qml:27
+msgid "Back"
+msgstr "Nazaj"
+
+#: volleyball2d/pages/HighScorePage.qml:33
+msgid "High Scores"
+msgstr "Najboljši rezultati"
+
+#: volleyball2d/pages/HighScorePage.qml:61
+#: volleyball2d/pages/HighScorePage.qml:73
+#: volleyball2d/pages/HighScorePage.qml:85
+msgid "N/A"
+msgstr "Ni na voljo"
+
+#: volleyball2d/pages/HighScorePage.qml:61
+msgid "seconds"
+msgstr "sekund"
+
+#: volleyball2d/pages/HighScorePage.qml:73
+#: volleyball2d/pages/HighScorePage.qml:85
+msgid "points"
+msgstr "točk"
+
+#: volleyball2d/pages/FinishPage.qml:64
+msgid "New fastest time"
+msgstr ""
+
+#: volleyball2d/pages/FinishPage.qml:64
+msgid "New highest score"
+msgstr ""
+
+#: volleyball2d/pages/FinishPage.qml:73
+msgid "Final Score"
+msgstr ""
+
+#: volleyball2d/pages/FinishPage.qml:81
+msgid "You"
+msgstr "Vi"
+
+#: volleyball2d/pages/FinishPage.qml:82
+msgid "Computer"
+msgstr "Računalnik"
+
+#: volleyball2d/pages/FinishPage.qml:82
+msgid "Time"
+msgstr "Čas"
+
+#: volleyball2d/pages/FinishPage.qml:89
+msgid "Tap to return to the menu"
+msgstr ""
