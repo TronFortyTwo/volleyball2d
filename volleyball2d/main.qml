@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-import QtQuick 2.3
+import QtQuick 2.4
 import Ubuntu.Components 1.3
 import Qt.labs.settings 1.0
 
@@ -24,7 +24,7 @@ MainView {
     anchors {
         fill: parent
     }
-    applicationName: "com.ubuntu.developer.andrew-hayzen.volleyball2d"
+    applicationName: "volleyball2d.emanuelesorce"
     automaticOrientation: true
     objectName: "mainView"
 
@@ -49,7 +49,7 @@ MainView {
         property double motionSensitivity: 0.75
         property int survivalScore: -1
         property int targetScore: 5
-        property bool useMotion: true
+        property bool useMotion: false
 
         // Call signal that cpp listens to
         onFullscreenChanged: mainView.fullscreen(fullscreen);
